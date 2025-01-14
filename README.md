@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋 I'm Bohdan Karapet
 
-<!--
-**b-karapet/b-karapet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** | **UAV & Robotics Enthusiast** | **Frontend Developer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- Skilled in **Vue.js**, **Nuxt.js**, and **Composable Commerce** solutions.
+- Passionate about **UAVs**, **autonomous systems**, and **AI integration**.
+- Constant learner with a Master's in **Software Engineering**.
+- Published research on **quantum software development** and **UAV image processing**.
+- Currently exploring advanced robotics and AI-driven systems.
+
+---
+
+### Key Skills
+
+- **Frontend Development**: Vue.js, Nuxt.js, React.js, Next.js
+- **Robotics & UAVs**: UAV Assembly, UAV Programming, Autonomous Systems
+- **Backend & Integration**: REST APIs, Microcontrollers, Signal Transmission
+- **Other Tools & Technologies**: Python, Git, ROS
+
+---
+
+### Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/bohdan-karapet)
