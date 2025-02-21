@@ -6,7 +6,7 @@
 
 ### About Me
 
-- Skilled in **Vue.js**, **Nuxt.js**, and **Composable Commerce** solutions.
+- Skilled in **Vue.js**, **Nuxt.js**, **Ract**, **Next.js**, and **Composable Commerce** solutions.
 - Passionate about **UAVs**, **autonomous systems**, and **AI integration**.
 - Constant learner with a Master's in **Software Engineering**.
 - Published research on **quantum software development** and **UAV image processing**.
